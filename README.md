@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-[掌上吾理](https://www.coolapk.com/apk/285768)
+My first app —— [「掌上吾理」](https://www.coolapk.com/apk/285768)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcqnly&show_icons=true&theme=dark)](https://github.com/kcqnly)
 
