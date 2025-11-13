@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My first app —— [「掌上吾理」](https://www.coolapk.com/apk/285768)
+My first app —— [「掌上吾理」]([https://www.coolapk.com/apk/285768](https://apps.apple.com/cn/app/%E6%8E%8C%E4%B8%8A%E5%90%BE%E7%90%86/id1494650352))
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felikslv01&show_icons=true&theme=dark)](https://github.com/FeliksLv01)
 
